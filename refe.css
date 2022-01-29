@@ -1,0 +1,79 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", "Helvetica", sans-serif;
+	background: #50336f;
+}
+#top-black{
+	background-color: black;
+	padding:10px;
+	text-align: center;
+}
+#black-logo,#black-menu{
+	padding: 10px;
+}
+h1{
+	color: #50336f;
+	font-size: 2.5em;
+}
+
+#black-principal{
+	
+	width: 920px;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;
+
+
+}
+#black-postagens{
+	
+	width: 900px;
+
+}
+
+.postagem-black{
+
+	padding: 20px;
+	margin-bottom: 20px;
+	background: black;
+}
+.branco{
+	color: white;
+}
+
+ a{
+	text-decoration: none;
+	color: #50336f;
+	padding: 8px 12px;
+	transition: 0.5s;
+}
+
+a:hover{
+	text-decoration: underline;	
+	color: white;
+	background: #50336f;
+	transition: 0.5s;
+}
+
+.btn{
+	background-color: #50336f;
+	color: white;
+}
+
+
+
+p{
+	color: #50336f;
+}
+
+h2{
+	color: #50336f;
+	text-align: center;
+	font-size: 3em;
+}
